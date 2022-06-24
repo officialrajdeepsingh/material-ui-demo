@@ -1,0 +1,26 @@
+{
+  "name": "material-ui-demo-for-nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "@mui/icons-material": "5.8.4",
+    "@mui/material": "5.8.5",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "17.0.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "material ui",
+    "nextjs",
+    "material ui with nextjs"
+  ],
+  "description": "Create demo with material ui and nextjs."
+}
